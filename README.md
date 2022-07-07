@@ -14,6 +14,11 @@
  - Java(3年)
  - C(1年)
 
+## 開発プログラム
+### Webカメラの映像をリアルタイムで物体検出する
+
+### BMI健康管理システム
+
 default profile
 - 👋 Hi, I’m @isseiQ
 - 👀 I’m interested in Object Detection and Multi Stream
