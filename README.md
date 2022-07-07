@@ -7,7 +7,7 @@
  - ICETC2021 poster session
 
 ## TOEIC
- - Listening & Reading 610
+ - Listening & Reading 610 [2021/12/19]
 
 ## 使用言語
  - Python(2年)
