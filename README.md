@@ -3,6 +3,9 @@
 ## 経歴
  - 近畿大学大学院 総合理工学研究科 エレクトロニクス系工学専攻 大規模情報処理システム研究室
 
+## 保有資格
+ - 普通自動車第一種運転免許 取得 (令和1年 10月1日)
+
 ## 学会発表
  - ICETC2021 poster session [Object Detection Scheme Switching for Improving Video Analysis Performance]
 
